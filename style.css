@@ -101,6 +101,17 @@ ul {
   text-align: center
 }
 
+.btn-red {
+  display: block;
+  width: 250px;
+  margin: 30px auto;
+  background-color: #58A4B0;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
 #header_image {
   display: block;
   width: 120px;
@@ -112,3 +123,5 @@ ul {
 #copyright {
   font-size: 9px;
 }
+
+
